@@ -1,6 +1,6 @@
 # Snake igra
 
-Ovaj repozitorijum sadrži klasičnu Snake igru napravljenu korišćenjem Unity framework-a, PHP-a, MySQL-a i ASP.NET-a za middleware.
+Ovaj repozitorijum sadrži klasičnu Snake igru napravljenu korišćenjem Unity framework-a, PHP-a, MySQL-a i ASP.NET-a.
 
 ## Učesnici na projektu
 
